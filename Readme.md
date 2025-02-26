@@ -9,14 +9,14 @@
 
 This example demonstrates how to insert an external reference link from a workbook to another workbook. 
 
-An external workbook is created and populated with random data by importing a data table at runtime. Subsequently, the workbook is added to the [ExternalWorkbookCollection](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Spreadsheet.ExternalWorkbookCollection). A cell formula with a reference to an external workbook is inserted in the current worksheet. The worksheet is saved to .XLSX file and opened with an application registered for that file format.
+An external workbook is created and populated with random data by importing a data table at runtime. Subsequently, the workbook is added to the [ExternalWorkbookCollection](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Spreadsheet.ExternalWorkbookCollection). A cell formula with reference to an external workbook is inserted in the current worksheet. The worksheet is saved to .XLSX file and opened with an application registered for that file format.
 
 > [!important]
 > The **Universal Subscription** or an additional **Office File API Subscription** is required to use this example in production code. Please refer to the [DevExpress Subscription](https://www.devexpress.com/Buy/NET/) page for pricing information.
 
 ## Files to Review
 
-* [Program.cs](./CS/SpreadsheetApiExternalWorkbook/Program.cs) (VB: [Program.vb](./VB/SpreadsheetApiExternalWorkbook/Form1.vb))
+* [Program.cs](./CS/SpreadsheetApiExternalWorkbook/Program.cs) (VB: [Program.vb](./VB/SpreadsheetApiExternalWorkbook/Program.vb))
 
 ## Documentation
 
